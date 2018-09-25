@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jack Lu
 # SoftDev1 pd8
 # Kn -- title 
